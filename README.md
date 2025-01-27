@@ -3,7 +3,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
 
 
 <!-- PROJECT LOGO -->
@@ -16,9 +15,6 @@
 
   <h3 align="center">Reviving Authentic Personalities: Integrating LLMs with Markov-Based Emotional Transitions</h3>
   <p align="center">
-    <a href="https://github.com/turnwind/llmemochain"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/turnwind/llmemochain">查看Demo</a>
     ·
     <a href="https://github.com/turnwind/llmemochain/issues">报告Bug</a>
@@ -28,9 +24,25 @@
 
 </p>
 
+
 <p align="center">
-[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
+  <a href="https://github.com/turnwind/llmemochain/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/turnwind/llmemochain.svg?style=flat-square" alt="Contributors">
+  </a>
+  <a href="https://github.com/turnwind/llmemochain/network/members">
+    <img src="https://img.shields.io/github/forks/turnwind/llmemochain.svg?style=flat-square" alt="Forks">
+  </a>
+  <a href="https://github.com/turnwind/llmemochain/stargazers">
+    <img src="https://img.shields.io/github/stars/turnwind/llmemochain.svg?style=flat-square" alt="Stargazers">
+  </a>
+  <a href="https://github.com/turnwind/llmemochain/issues">
+    <img src="https://img.shields.io/github/issues/turnwind/llmemochain.svg?style=flat-square" alt="Issues">
+  </a>
+  <a href="https://github.com/turnwind/llmemochain/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/turnwind/llmemochain.svg?style=flat-square" alt="MIT License">
+  </a>
 </p>
+
  
 ## 目录
 
