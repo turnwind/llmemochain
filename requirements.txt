@@ -1,0 +1,7 @@
+numpy>=1.21.0
+scipy>=1.7.0
+pydantic>=2.0.0
+openai
+zhipuai>=1.0.0
+volcenginesdkarkruntime>=1.0.0
+streamlit
